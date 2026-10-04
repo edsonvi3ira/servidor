@@ -1,0 +1,2 @@
+# servidor
+MINECRAFT SERVER FOR FUN
